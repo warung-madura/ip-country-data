@@ -1,0 +1,15 @@
+{
+  "country": "Aland Islands",
+  "country-code": "AX",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "217.29.224.0/20"
+    ],
+    "ipv6": [
+      "2a0d:79c0::/32"
+    ]
+  }
+}
