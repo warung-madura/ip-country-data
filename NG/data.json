@@ -1,0 +1,19 @@
+{
+  "country": "Nigeria",
+  "country-code": "NG",
+  "delegation-status": [
+    "allocated",
+    "assigned"
+  ],
+  "subnets": {
+    "ipv4": [
+      "193.238.28.0/22",
+      "194.26.4.0/22",
+      "80.89.176.0/20",
+      "83.143.8.0/21"
+    ],
+    "ipv6": [
+      "2a06:b940::/29"
+    ]
+  }
+}

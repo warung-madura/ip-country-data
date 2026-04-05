@@ -1,0 +1,13 @@
+{
+  "country": "Liberia",
+  "country-code": "LR",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "89.207.159.0/24"
+    ],
+    "ipv6": []
+  }
+}

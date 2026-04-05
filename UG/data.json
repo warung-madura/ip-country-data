@@ -1,0 +1,13 @@
+{
+  "country": "Uganda",
+  "country-code": "UG",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "216.104.192.0/20"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "country": "Mozambique",
+  "country-code": "MZ",
+  "delegation-status": [
+    "assigned"
+  ],
+  "subnets": {
+    "ipv4": [
+      "195.140.248.0/22"
+    ],
+    "ipv6": []
+  }
+}

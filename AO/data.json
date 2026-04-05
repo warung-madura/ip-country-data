@@ -1,0 +1,15 @@
+{
+  "country": "Angola",
+  "country-code": "AO",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "185.148.112.0/22"
+    ],
+    "ipv6": [
+      "2a07:6040::/29"
+    ]
+  }
+}

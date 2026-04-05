@@ -1,0 +1,13 @@
+{
+  "country": "Libya",
+  "country-code": "LY",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "5.63.0.0/21"
+    ],
+    "ipv6": []
+  }
+}

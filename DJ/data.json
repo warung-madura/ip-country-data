@@ -1,0 +1,15 @@
+{
+  "country": "Djibouti",
+  "country-code": "DJ",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "91.209.83.0/24"
+    ],
+    "ipv6": [
+      "2a10:8200::/29"
+    ]
+  }
+}

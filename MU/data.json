@@ -1,0 +1,14 @@
+{
+  "country": "Mauritius",
+  "country-code": "MU",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "202.60.0.0/21",
+      "37.139.132.0/22"
+    ],
+    "ipv6": []
+  }
+}

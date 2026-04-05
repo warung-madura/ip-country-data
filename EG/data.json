@@ -1,0 +1,13 @@
+{
+  "country": "Egypt",
+  "country-code": "EG",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "185.133.16.0/22"
+    ],
+    "ipv6": []
+  }
+}
