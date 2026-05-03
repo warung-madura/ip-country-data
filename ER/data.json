@@ -1,0 +1,13 @@
+{
+  "country": "ER",
+  "country-code": "ER",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "196.200.96.0/20"
+    ],
+    "ipv6": []
+  }
+}
