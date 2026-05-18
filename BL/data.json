@@ -1,0 +1,19 @@
+{
+  "country": "Saint Barthelemy",
+  "country-code": "BL",
+  "delegation-status": [
+    "allocated"
+  ],
+  "subnets": {
+    "ipv4": [
+      "149.112.20.0/24",
+      "206.83.45.0/24",
+      "23.135.232.0/24"
+    ],
+    "ipv6": [
+      "2001:504:111::/48",
+      "2602:fb77::/48",
+      "2602:fc69::/36"
+    ]
+  }
+}
